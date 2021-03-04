@@ -1,0 +1,1 @@
+Read a sentence from the input using scanf API Then sort split it into words and write to the screen using the printf API the words sorted from the longest one to the shortest one If two words have the same le
